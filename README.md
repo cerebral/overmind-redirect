@@ -1,0 +1,2 @@
+# overmind-redirect
+Redirects www
